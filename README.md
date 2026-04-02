@@ -1,6 +1,6 @@
 # Bidease SDK Agents
 
-Claude Code commands for integrating Bidease SDK into your project via AppLovin MAX mediation.
+Claude Code commands for integrating Bidease SDK Custom adapter for AppLovin MAX mediation.
 
 ## Installation
 
@@ -30,7 +30,7 @@ claude /install-bidease-<platform>
 bash <(curl -fsSL https://raw.githubusercontent.com/bidease/bidease-sdk-agents/main/claude/install.sh) android
 claude /install-bidease-android
 
-# Unity
+# Unity for Android build
 bash <(curl -fsSL https://raw.githubusercontent.com/bidease/bidease-sdk-agents/main/claude/install.sh) unity
 claude /install-bidease-unity
 ```
