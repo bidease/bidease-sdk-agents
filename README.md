@@ -20,11 +20,11 @@ claude /bidease-<target>
 
 | Platform | Mediation | Target | Command |
 |----------|-----------|--------|---------|
-| Native iOS | AppLovin MAX | `ios-max` | `/bidease-ios-max` |
+| Native iOS | AppLovin MAX | `ios-max` | `/bidease-ios-max` _(coming soon)_ |
 | Native iOS | Google AdMob | `ios-admob` | `/bidease-ios-admob` |
 | Native Android | AppLovin MAX | `android-max` | `/bidease-android-max` |
 | Native Android | Google AdMob | `android-admob` | `/bidease-android-admob` |
-| Unity (iOS build) | AppLovin MAX | `unity-ios-max` | `/bidease-unity-ios-max` |
+| Unity (iOS build) | AppLovin MAX | `unity-ios-max` | `/bidease-unity-ios-max` _(coming soon)_ |
 | Unity (iOS build) | Google AdMob | `unity-ios-admob` | `/bidease-unity-ios-admob` |
 | Unity (Android build) | AppLovin MAX | `unity-android-max` | `/bidease-unity-android-max` |
 | Unity (Android build) | Google AdMob | `unity-android-admob` | `/bidease-unity-android-admob` |
