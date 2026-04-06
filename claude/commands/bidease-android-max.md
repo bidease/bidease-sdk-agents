@@ -3,7 +3,7 @@
 You are helping a developer integrate the Bidease SDK as a custom network in AppLovin MAX.
 
 Reference docs — fetch and read before proceeding:
-- https://devs.bidease.com/docs/kmp-android-max-adapter
+- https://devs.bidease.com/update/docs/android-applovin
 - https://support.axon.ai/en/max/mediated-network-guides/integrating-custom-sdk-networks/
 
 ## Step 1: Detect project type
